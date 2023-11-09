@@ -1,0 +1,43 @@
+body {
+    min-height: 3000px;
+    font-family: "Poppins";
+    background-color: rgb(169, 169, 169);
+  }
+  
+  .jumbotron {
+    padding-top: 5rem;
+    background-color: rgb(169, 169, 169);
+  }
+  
+  #projects {
+    background-color: rgb(169, 169, 169);
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  
+  .lead {
+    font-size: 25px;
+  }
+  
+  .navbar,
+  .navbar-expand-lg,
+  .navbar-light,
+  .custom-navbar,
+  .shadow-sm,
+  .fixed-top,
+  .navbar-brand,
+  .navbar-toggler,
+  .navbar-toggler-icon,
+  .collapse .navbar-collapse,
+  .navbar-nav .ms-auto {
+    background-color: rgb(128, 128, 128);
+    font-size: 24px;
+  }
+   h2, .display-4 {
+      font-weight: bold;
+   }
+  
+  
+  
